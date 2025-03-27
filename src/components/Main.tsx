@@ -80,7 +80,7 @@ const Main: React.FC = () => {
                     onClick={() => router.push(`https://www.google.com/doodles`)}
                     >
                       
-                      I&apos;m Feeling Lucky
+                      Special Google clone for Nadya..hehe😁🦄😁
                       </button>
             </div>
         </div>
